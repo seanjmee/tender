@@ -1,4 +1,3 @@
-
 # SAM.gov Contract Intelligence Agent
 
 An AI-powered tool that helps you analyze government contract opportunities using Google Gemini and GPT-4.
@@ -23,7 +22,7 @@ OPENAI_API_KEY=sk-proj-your_openai_key_here
 ### 2. Run the application:
 
 ```bash
-python week1/tender.py
+python tender.py
 ```
 
 ### 3. Open your browser:
@@ -169,8 +168,9 @@ Want to add real SAM.gov scraping? Consider:
 
 ## 📄 License
 
-Part of the LLM Engineering project.
+
 
 ---
 
-**Ready to analyze some contracts?** Run `python week1/tender.py` and start exploring! 🏛️✨
+**Ready to analyze some contracts?** Run `tender.py` and start exploring! 🏛️✨
+
